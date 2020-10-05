@@ -1,0 +1,7 @@
+{
+     "type": "record",
+     "namespace": "org.example",
+     "name": "Booking",
+     "version": "1",
+     "fields": [ { "name": "reservation_id", "type": "int" },{ "name": "hotel_id", "type": "int" }, { "name": "city", "type": "string" }, { "name": "nights_booked", "type": "int" }, { "name": "booking_amount", "type": "double" },{ "name": "currency", "type": "string" }  ]
+}
